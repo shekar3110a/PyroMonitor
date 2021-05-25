@@ -6,7 +6,7 @@ sites:
   - name: Google
     url: https://www.google.com
   - name: West cTopUp
-    url:https://west.speedpayplus.com:50506/
+    url: https://west.speedpayplus.com:50506/
   - name : East CTopUp
     url: https://east.speedpayplus.com:50506/
 
