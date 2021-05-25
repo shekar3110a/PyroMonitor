@@ -5,12 +5,6 @@ repo: PyroMonitor # The name of this repository
 sites:
   - name: Google
     url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
   - name: West cTopUp
     url:https://west.speedpayplus.com:50506/APP_Server/APPServices/LandlineBillEnquiry
   - name : East CTopUp
@@ -20,7 +14,7 @@ status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: demo.upptime.js.org
-  baseUrl: https://shekar3110a.github.io/PyroMonitor/
+  baseUrl: /PyroMonitor
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: PyroMonitor
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
