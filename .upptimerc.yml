@@ -6,9 +6,9 @@ sites:
   - name: Google
     url: https://www.google.com
   - name: West cTopUp
-    url:https://west.speedpayplus.com:50506/APP_Server/APPServices/LandlineBillEnquiry
+    url:https://west.speedpayplus.com:50506/
   - name : East CTopUp
-    url: https://east.speedpayplus.com:50506/APP_Server/APPServices/LandlineBillEnquiry
+    url: https://east.speedpayplus.com:50506/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
