@@ -22,9 +22,9 @@
     "url": "https://east.speedpayplus.com:50506/",
     "icon": "https://favicons.githubusercontent.com/east.speedpayplus.com",
     "slug": "east-c-top-up",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,7 +33,9 @@
     "timeWeek": 1149,
     "timeMonth": 1149,
     "timeYear": 1149,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-05-31": 0
+    }
   },
   {
     "name": "South cTopUp",
