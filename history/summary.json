@@ -85,9 +85,9 @@
     "url": "https://north.speedpayplus.com:50506/",
     "icon": "https://favicons.githubusercontent.com/north.speedpayplus.com",
     "slug": "north-c-top-up",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.94%",
@@ -97,6 +97,7 @@
     "timeMonth": 1046,
     "timeYear": 1043,
     "dailyMinutesDown": {
+      "2021-06-30": 0,
       "2021-06-16": 29
     }
   }
