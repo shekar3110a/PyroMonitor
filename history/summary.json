@@ -11,10 +11,10 @@
     "uptimeMonth": "99.74%",
     "uptimeYear": "99.82%",
     "time": 1083,
-    "timeDay": 1156,
-    "timeWeek": 1081,
-    "timeMonth": 1072,
-    "timeYear": 1066,
+    "timeDay": 1117,
+    "timeWeek": 1077,
+    "timeMonth": 1073,
+    "timeYear": 1067,
     "dailyMinutesDown": {
       "2022-08-15": 38,
       "2022-08-13": 75,
@@ -39,15 +39,15 @@
     "icon": "https://favicons.githubusercontent.com/east.speedpayplus.com",
     "slug": "east-c-top-up",
     "status": "up",
-    "uptime": "99.05%",
+    "uptime": "99.06%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.12%",
     "uptimeMonth": "99.43%",
     "uptimeYear": "99.61%",
     "time": 1288,
-    "timeDay": 1145,
-    "timeWeek": 1081,
-    "timeMonth": 1075,
+    "timeDay": 1134,
+    "timeWeek": 1079,
+    "timeMonth": 1077,
     "timeYear": 1090,
     "dailyMinutesDown": {
       "2022-09-09": 190,
@@ -74,8 +74,7 @@
       "2021-11-01": 17,
       "2021-10-27": 177,
       "2021-10-05": 18,
-      "2021-09-18": 362,
-      "2021-09-13": 19
+      "2021-09-18": 362
     }
   },
   {
@@ -89,11 +88,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.81%",
     "uptimeYear": "99.72%",
-    "time": 1220,
-    "timeDay": 1120,
-    "timeWeek": 1089,
-    "timeMonth": 1077,
-    "timeYear": 1128,
+    "time": 1221,
+    "timeDay": 1103,
+    "timeWeek": 1084,
+    "timeMonth": 1078,
+    "timeYear": 1129,
     "dailyMinutesDown": {
       "2022-08-30": 82,
       "2022-08-05": 121,
@@ -111,8 +110,7 @@
       "2021-10-05": 17,
       "2021-09-30": 19,
       "2021-09-25": 99,
-      "2021-09-16": 145,
-      "2021-09-13": 255
+      "2021-09-16": 145
     }
   },
   {
@@ -127,9 +125,9 @@
     "uptimeMonth": "99.77%",
     "uptimeYear": "99.56%",
     "time": 1190,
-    "timeDay": 1166,
-    "timeWeek": 1091,
-    "timeMonth": 1398,
+    "timeDay": 1124,
+    "timeWeek": 1086,
+    "timeMonth": 1401,
     "timeYear": 1228,
     "dailyMinutesDown": {
       "2022-08-22": 35,
