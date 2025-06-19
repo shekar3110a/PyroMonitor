@@ -9,12 +9,12 @@
     "uptimeDay": "90.34%",
     "uptimeWeek": "97.84%",
     "uptimeMonth": "98.82%",
-    "uptimeYear": "76.67%",
-    "time": 1295,
-    "timeDay": 1174,
-    "timeWeek": 1074,
-    "timeMonth": 1112,
-    "timeYear": 1297,
+    "uptimeYear": "76.69%",
+    "time": 1294,
+    "timeDay": 1186,
+    "timeWeek": 1069,
+    "timeMonth": 1113,
+    "timeYear": 1296,
     "dailyMinutesDown": {
       "2025-06-18": 139,
       "2025-06-17": 56,
@@ -125,8 +125,7 @@
       "2024-06-23": 1440,
       "2024-06-22": 1440,
       "2024-06-21": 1440,
-      "2024-06-20": 1440,
-      "2024-06-19": 1440
+      "2024-06-20": 1440
     }
   },
   {
@@ -135,15 +134,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/east.speedpayplus.com.ico",
     "slug": "east-c-top-up",
     "status": "up",
-    "uptime": "54.05%",
+    "uptime": "54.06%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.45%",
     "uptimeMonth": "99.64%",
-    "uptimeYear": "76.08%",
+    "uptimeYear": "76.10%",
     "time": 1140,
-    "timeDay": 930,
-    "timeWeek": 973,
-    "timeMonth": 1001,
+    "timeDay": 995,
+    "timeWeek": 968,
+    "timeMonth": 1003,
     "timeYear": 1141,
     "dailyMinutesDown": {
       "2025-06-17": 56,
@@ -244,8 +243,7 @@
       "2024-06-23": 1440,
       "2024-06-22": 1440,
       "2024-06-21": 1440,
-      "2024-06-20": 1440,
-      "2024-06-19": 1440
+      "2024-06-20": 1440
     }
   },
   {
@@ -258,12 +256,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.28%",
     "uptimeMonth": "99.69%",
-    "uptimeYear": "76.15%",
-    "time": 1121,
-    "timeDay": 1020,
-    "timeWeek": 1151,
-    "timeMonth": 1046,
-    "timeYear": 1122,
+    "uptimeYear": "76.17%",
+    "time": 1120,
+    "timeDay": 1011,
+    "timeWeek": 1143,
+    "timeMonth": 1048,
+    "timeYear": 1121,
     "dailyMinutesDown": {
       "2025-06-17": 55,
       "2025-06-13": 17,
@@ -362,8 +360,7 @@
       "2024-06-23": 1440,
       "2024-06-22": 1440,
       "2024-06-21": 1440,
-      "2024-06-20": 1440,
-      "2024-06-19": 1440
+      "2024-06-20": 1440
     }
   },
   {
@@ -376,11 +373,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.42%",
-    "uptimeYear": "76.17%",
+    "uptimeYear": "76.19%",
     "time": 1033,
-    "timeDay": 934,
-    "timeWeek": 1014,
-    "timeMonth": 1012,
+    "timeDay": 1002,
+    "timeWeek": 1005,
+    "timeMonth": 1014,
     "timeYear": 1033,
     "dailyMinutesDown": {
       "2025-06-11": 23,
@@ -481,8 +478,7 @@
       "2024-06-23": 1440,
       "2024-06-22": 1440,
       "2024-06-21": 1440,
-      "2024-06-20": 1440,
-      "2024-06-19": 1440
+      "2024-06-20": 1440
     }
   }
 ]
