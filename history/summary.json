@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/west.speedpayplus.com.ico",
     "slug": "west-c-top-up",
     "status": "up",
-    "uptime": "56.13%",
+    "uptime": "56.15%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "92.75%",
-    "time": 1254,
-    "timeDay": 1166,
-    "timeWeek": 1072,
-    "timeMonth": 1045,
+    "uptimeYear": "93.02%",
+    "time": 1253,
+    "timeDay": 1029,
+    "timeWeek": 1062,
+    "timeMonth": 1044,
     "timeYear": 1257,
     "dailyMinutesDown": {
       "2025-06-19": 314,
@@ -66,8 +66,7 @@
       "2024-08-24": 1440,
       "2024-08-23": 1440,
       "2024-08-22": 1440,
-      "2024-08-21": 1440,
-      "2024-08-20": 1440
+      "2024-08-21": 1440
     }
   },
   {
@@ -76,16 +75,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/east.speedpayplus.com.ico",
     "slug": "east-c-top-up",
     "status": "up",
-    "uptime": "55.86%",
+    "uptime": "55.89%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.51%",
-    "uptimeYear": "92.77%",
+    "uptimeYear": "93.05%",
     "time": 1147,
-    "timeDay": 1174,
-    "timeWeek": 1070,
-    "timeMonth": 1366,
-    "timeYear": 1149,
+    "timeDay": 980,
+    "timeWeek": 1049,
+    "timeMonth": 1364,
+    "timeYear": 1148,
     "dailyMinutesDown": {
       "2025-07-26": 213,
       "2025-06-17": 56,
@@ -124,8 +123,7 @@
       "2024-08-24": 1440,
       "2024-08-23": 1440,
       "2024-08-22": 1440,
-      "2024-08-21": 1440,
-      "2024-08-20": 1440
+      "2024-08-21": 1440
     }
   },
   {
@@ -134,14 +132,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/south.speedpayplus.com.ico",
     "slug": "south-c-top-up",
     "status": "up",
-    "uptime": "55.88%",
+    "uptime": "55.91%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.51%",
-    "uptimeYear": "92.84%",
+    "uptimeYear": "93.12%",
     "time": 1108,
-    "timeDay": 1115,
-    "timeWeek": 1101,
+    "timeDay": 1033,
+    "timeWeek": 1091,
     "timeMonth": 1076,
     "timeYear": 1109,
     "dailyMinutesDown": {
@@ -181,8 +179,7 @@
       "2024-08-24": 1440,
       "2024-08-23": 1440,
       "2024-08-22": 1440,
-      "2024-08-21": 1440,
-      "2024-08-20": 1440
+      "2024-08-21": 1440
     }
   },
   {
@@ -191,15 +188,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/north.speedpayplus.com.ico",
     "slug": "north-c-top-up",
     "status": "up",
-    "uptime": "55.96%",
+    "uptime": "55.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
-    "uptimeYear": "92.89%",
+    "uptimeYear": "93.17%",
     "time": 1032,
-    "timeDay": 1113,
-    "timeWeek": 1089,
-    "timeMonth": 1052,
+    "timeDay": 977,
+    "timeWeek": 1063,
+    "timeMonth": 1049,
     "timeYear": 1032,
     "dailyMinutesDown": {
       "2025-07-28": 30,
@@ -239,8 +236,7 @@
       "2024-08-24": 1440,
       "2024-08-23": 1440,
       "2024-08-22": 1440,
-      "2024-08-21": 1440,
-      "2024-08-20": 1440
+      "2024-08-21": 1440
     }
   }
 ]
