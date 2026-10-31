@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/west.speedpayplus.com.ico",
     "slug": "west-c-top-up",
     "status": "up",
-    "uptime": "65.75%",
+    "uptime": "65.76%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -55,7 +55,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/south.speedpayplus.com.ico",
     "slug": "south-c-top-up",
     "status": "up",
-    "uptime": "65.58%",
+    "uptime": "65.59%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -82,9 +82,9 @@
     "url": "https://north.speedpayplus.com:50506/",
     "icon": "https://icons.duckduckgo.com/ip3/north.speedpayplus.com.ico",
     "slug": "north-c-top-up",
-    "status": "up",
-    "uptime": "65.63%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "65.64%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.79%",
@@ -106,7 +106,8 @@
       "2026-04-06": 110,
       "2026-05-13": 251,
       "2026-05-12": 55,
-      "2026-06-19": 190
+      "2026-06-19": 190,
+      "2026-10-31": 0
     }
   }
 ]
